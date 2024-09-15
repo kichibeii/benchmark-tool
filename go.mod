@@ -1,4 +1,4 @@
-module github.com/benchmark-tool
+module github.com/kichibeii/benchmark-tool
 
 go 1.22.3
 
