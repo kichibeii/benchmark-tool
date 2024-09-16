@@ -1,4 +1,4 @@
-package main
+package benchmarktool
 
 import (
 	"testing"
